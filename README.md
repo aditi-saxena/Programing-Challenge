@@ -9,8 +9,8 @@ compose.yml
 
 
 Steps:
-Created Ubuntu 18.04 Vm on Azure Cloud to make it a ansible workstation
-created Ubuntu 18.04 Vm on Azure CLoud to make it Slave machine
+1. Created Ubuntu 18.04 Vm on Azure Cloud to make it a ansible workstation
+2. created Ubuntu 18.04 Vm on Azure CLoud to make it Slave machine
 Installed Ansible in Ansible Workstation and added tusted host with help of sshpass key
 Download App to be deployed on Ansible Workstation
 created ansible playbook to do tasks(playbook.yml):
